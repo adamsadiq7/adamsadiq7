@@ -2,7 +2,7 @@
 
 🏁  I've just made my first app: https://apps.apple.com/gb/app/metropolitan-tabernacle/id1579345372
 
-🔭  I’m currently working on something cool 😉
+🔭  I’m currently working on something cool 😉: https:filmfinder.uk
 
 🌱  I’m currently learning Flutter and React Native
 
