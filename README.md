@@ -1,6 +1,6 @@
 <h2 align="left">👋 About me:</h2>
 
-🏁  I've just made my first app: https://apps.apple.com/gb/app/metropolitan-tabernacle/id1579345372, https://play.google.com/store/apps/details?id=com.MetropolitanTabernacle.MetTab
+🏁  I've just made my first app: https://onelink.to/paf8be
 
 🔭  I’m currently working on something cool 😉: https://filmfinder.uk
 
