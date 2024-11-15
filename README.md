@@ -2,9 +2,9 @@
 
 🏁  I've just made my first app: https://onelink.to/paf8be
 
-🔭  I’m currently working on something cool 😉: https://filmfinder.uk
+🔭  I’m currently working on something cool 😉
 
-🌱  I’m currently learning Flutter and React Native
+🌱  I’m currently learning Flutter
 
 📫  How to reach me: adamssdq@gmail.com
 
